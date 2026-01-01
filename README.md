@@ -1,16 +1,26 @@
-# React + Vite
+# 💰 Subscription Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application built with **React** and **Tailwind CSS** to help users track their monthly subscription expenses and manage their budget effectively.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **💸 Income & Budget Tracking:** Calculate remaining balance in real-time based on your monthly income.
+- **📊 Visual Data:** Interactive progress bars and category breakdowns (Video, Music, Gaming, etc.).
+- **💾 Local Storage Persistence:** Your data is saved automatically and never lost on refresh.
+- **🎨 Modern UI:** Clean interface with **Dark Mode** support.
+- **📱 Fully Responsive:** Works perfectly on desktop, tablet, and mobile devices.
+- **🔍 Search & Filter:** Easily find subscriptions or filter by category.
+- **➕ Custom Subscriptions:** Add your own custom expenses beyond the default list.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Language:** JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+## 📦 How to Run
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/username/subscription-tracker.git](https://github.com/username/subscription-tracker.git)
