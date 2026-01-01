@@ -23,4 +23,4 @@ A modern, responsive web application built with **React** and **Tailwind CSS** t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/S3pacee/subscription-tracker.git
+   git clone https://github.com/ilkernedim/subscription-tracker.git
